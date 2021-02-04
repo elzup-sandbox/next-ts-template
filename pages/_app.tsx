@@ -19,7 +19,7 @@ const App = ({ Component, pageProps }: AppProps) => (
         href="https://fonts.googleapis.com/css?family=Major+Mono+Display"
         rel="stylesheet"
       />
-      <title>vipstream</title>
+      <title>example</title>
     </Head>
     <Component {...pageProps} />
   </>
